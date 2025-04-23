@@ -127,6 +127,7 @@ Analysis of Ethical Impact Risk:
 (OKR3 Metric(s) with Experimentation):
   Because my OKR focuses on analyzing the feedback of a control group of around 100 gamers introduced to our AI matchmaking feature, aiming for a 75% acceptance rate, I set up a user acceptance experiment and recorded their results. They are as follows: 
 
+![image alt](https://github.com/DFilipovas/Group-10/blob/c8f05077e7074b7f8263a59149ed426b59c1a3dc/image.PNG)
 
 From these graphs you can see that our feature of AI matchmaking is something that people would be interested in. We, as a company, were able to reach our OKR’s goal of a 75% acceptance rate, and in this scenario, we would be able to move on to our next OKR.
 
