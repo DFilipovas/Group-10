@@ -172,6 +172,11 @@ Driven by passion and a clear understanding of the industry’s flaws, we’re b
 
 (2.B. Motivation):
 
+The company culture here at Havoc Games strives to be about curiosity, collaboration, adaptability, and celebration. We love and push our employees to bring these types of attitudes into work every day because these types of traits foster an environment that will positively reflect on the quality of games that we are putting out. Firstly, curiosity is important to us because we want our employees to find ways to think outside of the box and make games that none of our competitors are making. Alongside this, we ask our employees to collaborate on their work with each other. We find that these two work very nicely with one another because if each employee can bring their work to the table then they can bounce ideas off each other and come up with even more brilliant ideas than if they were only working by themselves. We also encourage adaptability, in the world of games there are always new trends or new technologies and our developers have to make sure they work alongside these things and not against them. Finally, Havoc Games emphasizes celebration. Each of our employees works hard and we make it a priority to celebrate successful projects that we have. This type of attitude shows appreciation and yields a better quality of work from everybody in the company.
+
+Here at Havoc Games, we fear mediocrity and perfectionism. Firstly, we fear mediocrity because we understand how many companies there are that have similar goals as us when it comes to creating games. If we accept mediocrity in any part of the process then we remove the factor that is meant to separate us. We can’t be sort of curious, kind of collaborate, and sometimes adapt to current trends. We have to always be about our principles all the time to produce high-quality games for our users. Bouncing off of this, we can’t become so infatuated with running away from mediocrity that we forget that we won’t always be perfect. There might be times that we struggle to produce great results, but this cannot discourage us from still showing up to work with the right eager-to-learn mindset that it takes to make a fun game. 
+
+
 (2.C. Summary):
 
 Cultural Summary:
