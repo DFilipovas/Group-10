@@ -214,6 +214,7 @@ Dr. Sasha Costanza-Chock is a design researcher and activist who has worked exte
 All three of these board members bring significant expertise in tech, AI, and ethics, which would be highly beneficial to Havoc Games. Dr. Buolamwini and Dr. Costanza-Chock's experience in AI ethics and design justice would provide valuable insights into ensuring that our games are fair, transparent, and inclusive, while Rand Waltzman's technical expertise would help us navigate the complex issues related to AI and cybersecurity.
 
 (4: Youtube Presentaion):
+https://youtu.be/QuvaNx-8Hmw
 
 (5: References):
 [1] YouTube Transparency Report, "Enforcement of our Community Guidelines," YouTube, 2020. [Online]. Available: https://transparencyreport.google.com. [Accessed: 11-Mar-2025].
